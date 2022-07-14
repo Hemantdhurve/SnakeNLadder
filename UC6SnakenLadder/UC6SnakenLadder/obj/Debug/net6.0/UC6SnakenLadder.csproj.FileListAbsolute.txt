@@ -1,0 +1,15 @@
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\bin\Debug\net6.0\UC6SnakenLadder.exe
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\bin\Debug\net6.0\UC6SnakenLadder.deps.json
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\bin\Debug\net6.0\UC6SnakenLadder.runtimeconfig.json
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\bin\Debug\net6.0\UC6SnakenLadder.dll
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\bin\Debug\net6.0\UC6SnakenLadder.pdb
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.csproj.AssemblyReference.cache
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.AssemblyInfoInputs.cache
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.AssemblyInfo.cs
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.csproj.CoreCompileInputs.cache
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.dll
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\refint\UC6SnakenLadder.dll
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.pdb
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\UC6SnakenLadder.genruntimeconfig.cache
+C:\Users\Hemant\source\repos\UC6SnakenLadder\UC6SnakenLadder\obj\Debug\net6.0\ref\UC6SnakenLadder.dll
