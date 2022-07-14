@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC3SnakenLadder/1.0.0": {
+        "runtime": {
+          "UC3SnakenLadder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC3SnakenLadder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
