@@ -1,0 +1,15 @@
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\bin\Debug\net6.0\UC5SnakeNLadder.exe
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\bin\Debug\net6.0\UC5SnakeNLadder.deps.json
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\bin\Debug\net6.0\UC5SnakeNLadder.runtimeconfig.json
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\bin\Debug\net6.0\UC5SnakeNLadder.dll
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\bin\Debug\net6.0\UC5SnakeNLadder.pdb
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.csproj.AssemblyReference.cache
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.AssemblyInfoInputs.cache
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.AssemblyInfo.cs
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.csproj.CoreCompileInputs.cache
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.dll
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\refint\UC5SnakeNLadder.dll
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.pdb
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\UC5SnakeNLadder.genruntimeconfig.cache
+C:\Users\Hemant\source\repos\UC5SnakeNLadder\UC5SnakeNLadder\obj\Debug\net6.0\ref\UC5SnakeNLadder.dll
